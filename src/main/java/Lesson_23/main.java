@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 
-public class Main {
+public class main {
     /*
         Написать программу для парсинга xml документа. Необходимо распарсить xml документ и
         содержимое тегов line записать в другой документ. Название файла для записи должно
