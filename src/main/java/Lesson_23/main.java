@@ -73,4 +73,4 @@ NodeList titleNodes = doc.getElementsByTagName("title");
         System.err.println("Ошибка при обработке XML: " + e.getMessage());
     }
 }
-}t
+}
